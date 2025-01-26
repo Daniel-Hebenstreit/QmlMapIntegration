@@ -1,0 +1,15 @@
+-rootPath
+/home/hebi/QML Tut/Other/MapIntegration
+-cmake-output
+-output-file
+/home/hebi/QML Tut/Other/MapIntegration/build/Desktop_Qt_6_8_1-Debug/.qt/qml_imports/appMapIntegration_conf.cmake
+-importPath
+/home/hebi/QML Tut/Other/MapIntegration/build/Desktop_Qt_6_8_1-Debug/MapIntegration
+-importPath
+/home/hebi/QML Tut/Other/MapIntegration/build/Desktop_Qt_6_8_1-Debug
+-importPath
+/home/hebi/QtInstall/6.8.1/gcc_64/qml
+-qrcFiles
+/home/hebi/QML Tut/Other/MapIntegration/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/qmake_MapIntegration.qrc
+/home/hebi/QML Tut/Other/MapIntegration/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/appMapIntegration_raw_qml_0.qrc
+/home/hebi/QML Tut/Other/MapIntegration/build/Desktop_Qt_6_8_1-Debug/.qt/rcc/PREFIX.qrc
