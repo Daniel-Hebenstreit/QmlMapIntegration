@@ -28,7 +28,7 @@ function search(query, callback) {
                 // Call callback in case there are results
                 if (response.length > 0) {
                     var result = response[0]
-                    console.log("Search result: " + result)
+                    console.log("Search result: " + result.display_name + " (Lat: " + result.lat + ", Lon: " + result.lon + ")");
                     callback(result.lat, result.lon)
                 } else {
                     console.log("No results found")
