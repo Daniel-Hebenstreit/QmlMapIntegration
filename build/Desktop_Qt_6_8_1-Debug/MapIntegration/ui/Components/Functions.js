@@ -28,6 +28,8 @@ function search(query, callback) {
                 // Call callback in case there are results
                 if (response.length > 0) {
                     var result = response[0]
+                    // Only use the JSON properties "display_name", "lat" and "lon"
+                    // console.log("Search result: " + JSON.stringify(result));
                     console.log("Search result: " + result.display_name + " (Lat: " + result.lat + ", Lon: " + result.lon + ")");
                     callback(result.lat, result.lon)
                 } else {
