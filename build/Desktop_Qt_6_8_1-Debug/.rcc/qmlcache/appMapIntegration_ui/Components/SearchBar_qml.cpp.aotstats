@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 33,
-                        "durationMicroseconds": 466,
+                        "durationMicroseconds": 283,
                         "errorMessage": "",
                         "functionName": "searchText",
                         "line": 8
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 14,
-                        "durationMicroseconds": 310,
+                        "durationMicroseconds": 280,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 15
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 15,
-                        "durationMicroseconds": 256,
+                        "durationMicroseconds": 264,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 17
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 336,
+                        "durationMicroseconds": 333,
                         "errorMessage": "",
                         "functionName": "visible",
                         "line": 29
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 272,
+                        "durationMicroseconds": 284,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 32
@@ -46,7 +46,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 29,
-                        "durationMicroseconds": 259,
+                        "durationMicroseconds": 266,
                         "errorMessage": "",
                         "functionName": "verticalCenter",
                         "line": 34
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 28,
-                        "durationMicroseconds": 248,
+                        "durationMicroseconds": 197,
                         "errorMessage": "",
                         "functionName": "verticalAlignment",
                         "line": 55
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 276,
+                        "durationMicroseconds": 263,
                         "errorMessage": "",
                         "functionName": "top",
                         "line": 48
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 283,
+                        "durationMicroseconds": 268,
                         "errorMessage": "",
                         "functionName": "bottom",
                         "line": 49
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 20,
-                        "durationMicroseconds": 413,
+                        "durationMicroseconds": 248,
                         "errorMessage": "",
                         "functionName": "right",
                         "line": 50
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 182,
+                        "durationMicroseconds": 253,
                         "errorMessage": "",
                         "functionName": "left",
                         "line": 51
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 31,
-                        "durationMicroseconds": 1488,
+                        "durationMicroseconds": 1790,
                         "errorMessage": "Cannot generate efficient code for script lookup",
                         "functionName": "onReturnPressed",
                         "line": 62

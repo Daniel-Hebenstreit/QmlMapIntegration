@@ -6,7 +6,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 13,
-                        "durationMicroseconds": 665,
+                        "durationMicroseconds": 517,
                         "errorMessage": "Cannot access value for name osmMapView",
                         "functionName": "plugin",
                         "line": 9
@@ -14,7 +14,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 13,
-                        "durationMicroseconds": 455,
+                        "durationMicroseconds": 386,
                         "errorMessage": "Cannot access value for name window",
                         "functionName": "center",
                         "line": 10
@@ -22,7 +22,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 198,
+                        "durationMicroseconds": 176,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 8
@@ -30,7 +30,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 26,
-                        "durationMicroseconds": 1425,
+                        "durationMicroseconds": 4836,
                         "errorMessage": "",
                         "functionName": "acceptedDevices",
                         "line": 20
@@ -38,7 +38,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 216,
+                        "durationMicroseconds": 243,
                         "errorMessage": "",
                         "functionName": "rotationScale",
                         "line": 23
@@ -54,7 +54,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 32,
-                        "durationMicroseconds": 97,
+                        "durationMicroseconds": 96,
                         "errorMessage": "",
                         "functionName": "onTranslationChanged",
                         "line": 30
@@ -62,7 +62,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 445,
+                        "durationMicroseconds": 456,
                         "errorMessage": "",
                         "functionName": "enabled",
                         "line": 35
@@ -70,7 +70,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 236,
+                        "durationMicroseconds": 229,
                         "errorMessage": "",
                         "functionName": "sequence",
                         "line": 36
@@ -78,7 +78,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 750,
+                        "durationMicroseconds": 2381,
                         "errorMessage": "",
                         "functionName": "onActivated",
                         "line": 37
@@ -86,7 +86,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 18,
-                        "durationMicroseconds": 420,
+                        "durationMicroseconds": 457,
                         "errorMessage": "",
                         "functionName": "enabled",
                         "line": 42
@@ -94,7 +94,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 19,
-                        "durationMicroseconds": 230,
+                        "durationMicroseconds": 228,
                         "errorMessage": "",
                         "functionName": "sequence",
                         "line": 43
@@ -102,7 +102,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 22,
-                        "durationMicroseconds": 612,
+                        "durationMicroseconds": 663,
                         "errorMessage": "",
                         "functionName": "onActivated",
                         "line": 44
@@ -110,7 +110,7 @@
                     {
                         "codegenSuccessfull": false,
                         "column": 20,
-                        "durationMicroseconds": 137,
+                        "durationMicroseconds": 117,
                         "errorMessage": "Cannot access value for name mouse",
                         "functionName": "onClicked",
                         "line": 51
@@ -118,7 +118,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 23,
-                        "durationMicroseconds": 152,
+                        "durationMicroseconds": 139,
                         "errorMessage": "",
                         "functionName": "fill",
                         "line": 48
@@ -126,7 +126,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 21,
-                        "durationMicroseconds": 5429,
+                        "durationMicroseconds": 235,
                         "errorMessage": "",
                         "functionName": "coordinate",
                         "line": 68
@@ -134,7 +134,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 370,
+                        "durationMicroseconds": 284,
                         "errorMessage": "",
                         "functionName": "x",
                         "line": 65
@@ -142,7 +142,7 @@
                     {
                         "codegenSuccessfull": true,
                         "column": 24,
-                        "durationMicroseconds": 173,
+                        "durationMicroseconds": 158,
                         "errorMessage": "",
                         "functionName": "y",
                         "line": 66
