@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/">
-    <file alias="ui/assets/marker.png">/home/hebi/QML Tut/Other/MapIntegration/ui/assets/marker.png</file>
-  </qresource>
-</RCC>
-

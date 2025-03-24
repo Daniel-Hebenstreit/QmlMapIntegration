@@ -1,9 +1,0 @@
-module MapIntegration
-typeinfo appMapIntegration.qmltypes
-prefer :/MapIntegration/
-Main 1.0 Main.qml
-SearchBar 1.0 ui/Components/SearchBar.qml
-OkButton 1.0 ui/Components/OkButton.qml
-MapComponent 1.0 ui/Components/MapComponent.qml
-Functions 1.0 ui/Components/Functions.js
-
